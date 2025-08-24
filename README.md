@@ -20,6 +20,6 @@
    ```bash
    git clone https://github.com/Ananya-2-4/aOS-RealWorldX.git
    cd aOS-RealWorldX
-
+2.**To run the files**
 npm install
 npm start
